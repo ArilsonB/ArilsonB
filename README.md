@@ -8,4 +8,3 @@ I am a Brazilian in love with programming 😍, at age 11, has entered this wond
 - 🔭 I’m currently working on nothing.
 - 🧐 I’m currently looking for a stage or a job in this area.
 - 📚 I’m currently learning Laravel, React and C.
-- 🤝 I’m looking to collaborate on MyBlog and JellyWeb.
