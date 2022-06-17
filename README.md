@@ -7,4 +7,4 @@ I am a Brazilian in love with programming 😍, at age 11, has entered this wond
 - 🎓 I’m studying computer science on at Centro Universitário Carioca (Unicarioca) – Rio de Janeiro, RJ.
 - 🔭 I’m currently working on nothing.
 - 🧐 I’m currently looking for a stage or a job in this area.
-- 📚 I’m currently learning React and C++.
+- 📚 I’m currently learning React and Go.
