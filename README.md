@@ -2,7 +2,7 @@
 
 #### My name is Arilson Bolivar, good to see you here!
 
-I am a Brazilian in love with programming 😍, at age 11, has entered this wonderful world 😁,🧐 currently I am 22 years old and I am studying computing science at the university, my specialties are in HTML5, CSS3, PHP7, C, JavaScript and SASS.
+I am a Brazilian in love with programming 😍, at age 11, has entered this wonderful world 😁,🧐 currently I am 22 years old and I am studying computing science at the university, my specialties are in PHP, JavaScript.
 
 - 🎓 I’m studying computer science on at Centro Universitário Carioca (Unicarioca) – Rio de Janeiro, RJ.
 - 🔭 I’m currently working on nothing.
