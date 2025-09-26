@@ -23,6 +23,6 @@ I'm passionate about technology and always eager to learn new things and connect
 - Other: Git, Sonarqube, Linux, Automated Tests (Jest, PHPUnit, Vitest)
 
 ## Contact Me
-- Portfolio: arilsondev.github.io
+- Portfolio: https://arilsondev.github.io
 - 📧 Email: arilsondeveloper@gmail.com
-- 💼 LinkedIn: linkedin.com/in/arilsonb
+- 💼 LinkedIn: https://linkedin.com/in/arilsonb
